@@ -16,3 +16,5 @@ Web Scraping done from IMDb using BeautifulSoup and urllib.request
 <br>
 Text to Speech and vice versa - available.
 
+![Screenshot 2022-12-03 202910](https://user-images.githubusercontent.com/46349391/205447214-17ab9f0f-cd34-47a3-a0f5-a6e95cad59c6.png)
+
